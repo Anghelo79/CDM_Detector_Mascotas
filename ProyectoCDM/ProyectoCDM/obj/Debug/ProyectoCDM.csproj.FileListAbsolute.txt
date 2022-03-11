@@ -1,0 +1,174 @@
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.exe.config
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.exe
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.pdb
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csprojAssemblyReference.cache
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MainWindow.g.cs
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\App.g.cs
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_MarkupCompile.cache
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_MarkupCompile.lref
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\App.baml
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MainWindow.baml
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\Theme\MenuBottunTheme.baml
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.g.resources
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.Properties.Resources.resources
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.GenerateResource.cache
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.CoreCompileInputs.cache
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.exe
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.pdb
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeView.g.cs
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeView.baml
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\PetRegisterView.g.cs
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\PetRegisterView.baml
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeRegiterView.g.cs
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\ViewSecurityView.g.cs
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeRegiterView.baml
+D:\Materias 5 semestres\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\ViewSecurityView.baml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.exe.config
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.exe
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.pdb
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csprojAssemblyReference.cache
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MainWindow.g.cs
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeRegiterView.g.cs
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeView.g.cs
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\PetRegisterView.g.cs
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\ViewSecurityView.g.cs
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\App.g.cs
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_MarkupCompile.cache
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_MarkupCompile.lref
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\App.baml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MainWindow.baml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeRegiterView.baml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeView.baml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\PetRegisterView.baml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\ViewSecurityView.baml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\Theme\MenuBottunTheme.baml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.g.resources
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.Properties.Resources.resources
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.GenerateResource.cache
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.CoreCompileInputs.cache
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.exe
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.pdb
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\DataBase\Bdd.mdf
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\DataBase\Bdd_log.ldf
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_Content.g.cs
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\MoveDetectionView.g.cs
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Controls.dll
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.dll
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.dll
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Math.dll
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.dll
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Vision.dll
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.xml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Controls.xml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.xml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Math.xml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.xml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Vision.xml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\MoveDetectionView.baml
+C:\Users\opali\Downloads\ProyectoCDM\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.CopyComplete
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\DataBase\Bdd.mdf
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\DataBase\Bdd_log.ldf
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.exe.config
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.exe
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.pdb
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Controls.dll
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.dll
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.dll
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.Formats.dll
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Math.dll
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.DirectShow.dll
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.dll
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Vision.dll
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\GlyphRecognition.dll
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\GlyphRecognition.pdb
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.xml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Controls.xml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.xml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.Formats.xml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Math.xml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.xml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.DirectShow.xml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Vision.xml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csprojAssemblyReference.cache
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MainWindow.g.cs
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeRegiterView.g.cs
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeView.g.cs
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\MoveDetectionView.g.cs
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\PetRegisterView.g.cs
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\ViewSecurityView.g.cs
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\App.g.cs
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_Content.g.cs
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_MarkupCompile.cache
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_MarkupCompile.lref
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\App.baml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MainWindow.baml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeRegiterView.baml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeView.baml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\MoveDetectionView.baml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\PetRegisterView.baml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\ViewSecurityView.baml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\Theme\MenuBottunTheme.baml
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.g.resources
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.Properties.Resources.resources
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.GenerateResource.cache
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.CoreCompileInputs.cache
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.CopyComplete
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.exe
+D:\ProyectoPDiFinal\CDM(2)\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.pdb
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\DataBase\Bdd.mdf
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\DataBase\Bdd_log.ldf
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.exe.config
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.exe
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\ProyectoCDM.pdb
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Controls.dll
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.dll
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.dll
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Math.dll
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.dll
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Vision.dll
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\GlyphRecognition.dll
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\GlyphRecognition.pdb
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.xml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Controls.xml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.xml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Math.xml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.xml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\bin\Debug\AForge.Vision.xml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csprojAssemblyReference.cache
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MainWindow.g.cs
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeRegiterView.g.cs
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeView.g.cs
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\MoveDetectionView.g.cs
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\PetRegisterView.g.cs
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\ViewSecurityView.g.cs
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\App.g.cs
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_Content.g.cs
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_MarkupCompile.cache
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM_MarkupCompile.lref
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\App.baml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MainWindow.baml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeRegiterView.baml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\HomeView.baml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\MoveDetectionView.baml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\PetRegisterView.baml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\MVM\View\ViewSecurityView.baml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\Theme\MenuBottunTheme.baml
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.g.resources
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.Properties.Resources.resources
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.GenerateResource.cache
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.CoreCompileInputs.cache
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.csproj.CopyComplete
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.exe
+C:\Users\opali\Downloads\ProyectoCDMOriginalV2\ProyectoCDM\ProyectoCDM\obj\Debug\ProyectoCDM.pdb

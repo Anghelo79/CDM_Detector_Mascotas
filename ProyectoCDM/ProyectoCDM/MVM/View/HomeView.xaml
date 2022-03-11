@@ -1,0 +1,129 @@
+﻿<UserControl x:Class="ProyectoCDM.MVM.View.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProyectoCDM.MVM.View"
+             mc:Ignorable="d" Height="519.554" Width="795">
+    <StackPanel>
+        <TextBlock Text="Pet Registration"
+                   Foreground="White"
+                   FontSize="28"
+                   HorizontalAlignment="Left"
+                   Margin="0,0,0,20"/>
+        <StackPanel Orientation="Horizontal" Height="207">
+            <Border Width="400" Height="200" >
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#5bc3ff" Offset="0.0"/>
+                        <GradientStop Color="#3aa0ff" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="0,0,400,200"/>
+                </Border.Clip>
+                <Grid>
+                    <Grid.Background>
+                        <ImageBrush/>
+                    </Grid.Background>
+                    <StackPanel>
+                        <TextBlock Text="Descriptions" Foreground="White"
+                                   FontSize="28"
+                                   Margin="20,10,10,0"/>
+                        <TextBlock Text="text descripsion" Foreground="White"
+                                   FontSize="18"
+                                   Margin="20,10,10,0"/>
+                    </StackPanel>
+                    <Image Width="250" Height="250"
+                           Source="/Images/registro.jpg"
+                           HorizontalAlignment="Right"
+                           VerticalAlignment="Bottom" Margin="0,-58,-55,8" RenderTransformOrigin="0.5,0.5">
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-13.681"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                </Grid>
+
+            </Border>
+            <Border Width="200"
+                    Height="200"
+                    CornerRadius="10"
+                    Margin="45,0,0,0">
+                <Border.Background >
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#FFF4B437" Offset="0.0"/>
+                        <GradientStop Color="#FF7C6A27" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+            </Border>
+        </StackPanel>
+        <StackPanel Height="40">
+            <TextBlock Text="View Security"
+                   Foreground="White"
+                   FontSize="28"
+                   HorizontalAlignment="Left"
+                   Margin="0,0,0,20"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Height="220" Margin="0,0,5,0"  >
+            <Border Width="400" Height="200" >
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="#FF66C258" Offset="0.0"/>
+                        <GradientStop Color="#3aa0ff" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="10"
+                                       RadiusY="10"
+                                       Rect="0,0,400,200"/>
+                </Border.Clip>
+                <Grid Margin="0,0,-10,-15">
+                    <Grid.Background >
+                        <ImageBrush/>
+                    </Grid.Background>
+                    <StackPanel Margin="0,0,0,75">
+                        <TextBlock Text="Descriptions" Foreground="White"
+                                   FontSize="28"
+                                   Margin="20,10,10,0"/>
+                        <TextBlock Text="text descripsion" Foreground="White"
+                                   FontSize="18"
+                                   Margin="20,10,10,0"/>
+                    </StackPanel>
+                    <Image Width="250" Height="250"
+                           Source="/Images/vigilancia.jpg"
+                           HorizontalAlignment="Right"
+                           VerticalAlignment="Bottom" Margin="0,-110,-40,60" RenderTransformOrigin="0.5,0.5">
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-13.681"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                </Grid>
+
+            </Border>
+            <Border Width="195"
+                    CornerRadius="10"
+                    Margin="45,15,0,38">
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="1,2" StartPoint="0,0">
+                        <GradientStop Color="#FF54FFB8" Offset="0"/>
+                        <GradientStop Color="#FF5BCA0B" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+            </Border>
+        </StackPanel>
+    </StackPanel>
+
+</UserControl>

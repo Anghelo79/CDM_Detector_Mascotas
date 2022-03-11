@@ -1,0 +1,34 @@
+﻿<Application x:Class="ProyectoCDM.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ProyectoCDM"
+             xmlns:vieModel="clr-namespace:ProyectoCDM.MVM.VieModel"
+             xmlns:view ="clr-namespace:ProyectoCDM.MVM.View"
+             StartupUri="MainWindow.xaml">
+   
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/MenuBottunTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            
+            <DataTemplate DataType="{x:Type vieModel:HomeViewModel}">
+                <view:HomeView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vieModel:PetRegisterModel}">
+                <view:PetRegisterView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vieModel:HomeReginsterViewModel}">
+                <view:HomeRegiterView/>
+              
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vieModel:ViewSecurityViewModel}">
+                <view:ViewSecurityView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vieModel:MoveDetectionVielModel}">
+                <view:MoveDetectionView/>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
